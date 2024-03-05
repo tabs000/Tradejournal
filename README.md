@@ -1,0 +1,2 @@
+# Tradejournal
+tarding journal
